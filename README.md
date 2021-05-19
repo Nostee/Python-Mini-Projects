@@ -3,3 +3,5 @@ The projects here are only conducted for studying and mastery purposes.
 
 **IDE** | Visual Studio Code
 
+### List of Projects
+1. Image Processing
