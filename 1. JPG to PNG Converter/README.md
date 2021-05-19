@@ -2,6 +2,8 @@
 A simple program that converts JPG files into PNG files. The software asks for two inputs
 which would be used to determine the location of the reference folder and the name of the
 new folder where the program will throw all the converted images.
+### Virtual Environment
+JPG_TO_PNG_ENV
 ### Terminal 
 *python main.py [name of reference folder] [name of new folder]*
 ### Modules Used
