@@ -4,6 +4,7 @@ which would be used to determine the location of the reference folder and the na
 new folder where the program will throw all the converted images.
 ### Virtual Environment
 JPG_TO_PNG_ENV
+*Note: Always remember to change the path name in the .vscode settings*
 ### Terminal 
 *python main.py [name of reference folder] [name of new folder]*
 ### Modules Used

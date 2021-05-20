@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\Programming\Python Projects\1. JPG to PNG Converter\JPG_TO_PNG_ENV"
+VIRTUAL_ENV="E:\Programming\Python Mini Projects\1. JPG to PNG Converter\JPG_TO_PNG_ENV"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
